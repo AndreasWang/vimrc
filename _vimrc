@@ -38,6 +38,17 @@ language messages zh_CN.utf-8
 
 "显示行数
 set nu
+"当前系统支持彩色显示
+if &t_Co > 2 || has("gui_running")
+  "打开语法高亮
+  syntax on
+  "搜索目标高亮
+  set hlsearch
+endif
 
 "配色方案
 colorscheme lucius
+"设置字体、字号
+if has("gui_running")
+  set guifont=Consolas:h12
+endif

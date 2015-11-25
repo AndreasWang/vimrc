@@ -6,6 +6,9 @@ set nobackup
 set nocompatible
 "Insert模式下退格何时可以删除光标之前的字符
 "可以删除行首的空格(?)，断行，开始进入Insert模式之前的位置
+"allow backspacing over autoindent
+"allow backspacing over line breaks
+"allow backspacing over the start of insert
 set backspace=indent,eol,start
 
 "设置gui窗口相关属性
@@ -30,6 +33,8 @@ set fileencoding=utf-8
 set termencoding=utf-8
 "设置中文帮助
 set helplang=cn
+"解决系统提示的乱码
+language messages zh_CN.utf-8
 
 "显示行数
 set nu

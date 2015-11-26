@@ -52,3 +52,7 @@ colorscheme lucius
 if has("gui_running")
   set guifont=Consolas:h12
 endif
+
+"netrw插件
+"快捷键 垂直分割并浏览当前目录
+map <F10> :Vexplore<CR>

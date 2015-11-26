@@ -52,4 +52,3 @@ colorscheme lucius
 if has("gui_running")
   set guifont=Consolas:h12
 endif
-

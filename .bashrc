@@ -1,0 +1,7 @@
+alias gs='git status'
+alias gd='git diff'
+alias gl='git log'
+alias ga='git add'
+alias gm='git commit -m'
+alias gp='git push origin'
+alias gpl='git pull origin'

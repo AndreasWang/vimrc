@@ -68,6 +68,8 @@ set wrap
 
 "制表符可见
 "set list
+"配置制表符格式
+"set listchars=tab:>-,trail:-
 
 "底部信息显示的行数
 set cmdheight=1

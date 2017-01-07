@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/midori/.vim/bundle/Vundle.vim'
+let g:netrw_dirhist_2='/Users/midori/program/c'
+let g:netrw_dirhist_3='/usr/local/var/www/gaodun/shixiadmin/App/Admin/Controller'
+let g:netrw_dirhist_4='/Users/midori/Downloads/soft/nerdtree/autoload'
+let g:netrw_dirhist_5='/Users/midori/Downloads/soft/nerdtree/autoload/nerdtree'

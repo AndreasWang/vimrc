@@ -25,6 +25,8 @@ set guioptions-=b " 隐藏底部滚动条
 "set showtabline=0 " 隐藏Tab栏 
 endif
 
+set mouse=a " 支持鼠标
+
 "字符编码
 "Vim内部字符编码，会影响Vim内部的buffer，消息文字等
 set encoding=utf-8
@@ -76,7 +78,7 @@ set cmdheight=1
 
 "配色方案
 "colorscheme lucius
-colorscheme	evening
+"colorscheme	evening
 "设置字体、字号
 if has("gui_running")
   set guifont=Consolas:h12
@@ -110,3 +112,12 @@ set noexpandtab
 set smarttab
 " 在一个单词前后加｛｝
 map <F5> i{<Esc>ea}<Esc>
+
+""""""""""""""""""""""""""""""
+" Tag list (ctags)
+""""""""""""""""""""""""""""""
+let Tlist_Ctags_Cmd = '/usr/local/bin/ctags'
+let Tlist_Show_One_File = 1            "不同时显示多个文件的tag，只显示当前文件的
+let Tlist_Exit_OnlyWindow = 1          "如果taglist窗口是最后一个窗口，则退出vim
+let Tlist_Use_Right_Window = 1         "在右侧窗口中显示taglist窗口
+nmap <F8> :TagbarToggle<CR>

@@ -1,1 +1,1 @@
-#Midori gvim for windows
+#自用vim配置，完善中

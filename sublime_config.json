@@ -1,0 +1,17 @@
+{
+	"bold_folder_labels": true,
+	"draw_white_space": "all",
+	"font_size": 18,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"rulers":
+	[
+		80
+	],
+	"show_encoding": true,
+	"show_full_path": true,
+	"translate_tabs_to_spaces": true
+}

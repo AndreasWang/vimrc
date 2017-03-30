@@ -13,5 +13,8 @@
 	],
 	"show_encoding": true,
 	"show_full_path": true,
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+
+	// 代码折行
+	"word_wrap": false,
 }

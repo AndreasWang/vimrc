@@ -21,28 +21,28 @@
 [简书](http://www.jianshu.com)
 
 # 图片
-学院PC版![图片](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![图片](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 # 引用
-学院PC版> 吃与不吃，这是一个问题
+> 吃与不吃，这是一个问题
 
 ## 多行引用
-学院PC版> 朝辞白帝彩云间
-学院PC版> 千里江陵一日还
+> 朝辞白帝彩云间
+> 千里江陵一日还
 
 # 斜体与粗体
-学院PC版*一盏灯*， 一片昏黄；**一简书**， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。  
+*一盏灯*， 一片昏黄；**一简书**， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。  
 
 # 代码
 ## 行内代码
-学院PC版行内代码`printf("hello world");`
+行内代码`printf("hello world");`
 
 ## 代码块
 ```
 #include <stdio.h>
-学院PC版int main() {
-	学院PC版  printf("hello world");
-学院PC版}
+int main() {
+    printf("hello world");
+}
 ```
 
 # 表格

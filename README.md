@@ -38,7 +38,7 @@
 行内代码`printf("hello world");`
 
 ## 代码块
-```
+```c
 #include <stdio.h>
 int main() {
     printf("hello world");

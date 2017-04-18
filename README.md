@@ -38,7 +38,7 @@
 学院PC版行内代码`printf("hello world");`
 
 ## 代码块
-学院PC版```
+```
 #include <stdio.h>
 学院PC版int main() {
 	学院PC版  printf("hello world");

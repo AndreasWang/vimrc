@@ -34,7 +34,7 @@
 
 ***
 
-```
+```markdown
 - 列表1
 - 列表2
     - 二级列表1
@@ -56,7 +56,7 @@
 
 ***
 
-```
+```markdown
 1. 有序列表1
 2. 有序列表2
 3. 有序列表3
@@ -76,7 +76,7 @@
 
 ***
 
-```
+```markdown
 [简书](http://www.jianshu.com)
 ```
 
@@ -88,7 +88,7 @@
 
 ***
 
-```
+```markdown
 ![图片](http://upload-images.jianshu.io/upload_images/259-0ad0d0bfc1c608b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 ```
 
@@ -100,7 +100,7 @@
 
 ***
 
-```
+```markdown
 > 吃与不吃，这是一个问题
 ```
 
@@ -120,7 +120,7 @@
 
 ***
 
-```
+```markdown
 *一盏灯*， 一片昏黄；**一简书**， 一杯淡茶。 守着那一份淡定， 品读属于自己的寂寞。 保持淡定， 才能欣赏到最美丽的风景！ 保持淡定， 人生从此不再寂寞。
 ```
 
@@ -134,7 +134,7 @@
 
 *暂不支持高亮*
 
-```
+```markdown
 行内代码`printf("hello world");`
 ```
 
@@ -148,7 +148,7 @@
 
 *暂不支持高亮*
 
-````
+````markdown
 ```
 #include <stdio.h>
 int main() {
@@ -172,7 +172,7 @@ int main() {
 
 ***
 
-```
+```markdown
 |表头    |左对齐|居中 |右对齐|
 |-------|-----|:---:|---:|
 |A      |a    |1    |甲  |
@@ -200,7 +200,7 @@ B      |b    |2   |乙
 
 ***
 
-```
+```markdown
 ![][1]
 
 [1]:http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1

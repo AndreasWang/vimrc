@@ -58,6 +58,7 @@ B      |b    |2   |乙
 
 # 显示链接中带括号的图片
 ![][1]
+
 [1]:http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1
 
 # 代码

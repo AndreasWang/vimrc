@@ -135,10 +135,10 @@
 *暂不支持高亮*
 
 ```markdown
-行内代码`printf("hello world");`
+行内代码 `printf("hello world");`
 ```
 
-行内代码`printf("hello world");`
+行内代码 `printf("hello world");`
 
 ***
 
